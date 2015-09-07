@@ -1,0 +1,39 @@
+{
+    "spec_version": "v1.2",
+    "comment": "With the addition of BDArmouryDMPAddon, this module now only installs the turret .dll on its own while `BDArmory-core` actually contains the majority of the mod",
+    "identifier": "BDArmory",
+    "name": "BahamutoD's Armory",
+    "abstract": "Adds gun turrets, missiles, bombs, AI, etc. ",
+    "author": "BahamutoD",
+    "license": "CC-BY-SA-2.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/85209",
+        "kerbalstuff": "https://kerbalstuff.com/mod/90/BahamutoD's%20Armory",
+        "repository": "https://github.com/BahamutoD/BDArmory/",
+        "x_screenshot": "https://kerbalstuff.com/content/BahamutoD_531/BahamutoDs_Armory/BahamutoDs_Armory-1439076486.6644635.png"
+    },
+    "version": "0.9.9.1",
+    "ksp_version": "1.0.4",
+    "provides": [
+        "BDArmory-turret"
+    ],
+    "depends": [
+        {
+            "name": "BDArmory-common"
+        }
+    ],
+    "install": [
+        {
+            "file": "GameData/BDArmory/Plugins/BahaTurret.dll",
+            "install_to": "GameData/BDArmory/Plugins"
+        }
+    ],
+    "download": "https://kerbalstuff.com/mod/90/BahamutoD%27s%20Armory/download/0.9.9.1",
+    "download_size": 18489443,
+    "conflicts": [
+        {
+            "name": "BDArmouryDMPAddon"
+        }
+    ],
+    "x_generated_by": "netkan"
+}
