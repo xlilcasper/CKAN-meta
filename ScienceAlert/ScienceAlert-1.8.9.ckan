@@ -11,8 +11,9 @@
         "repository": "https://bitbucket.org/xEvilReeperx/ksp_sciencealert",
         "x_screenshot": "https://kerbalstuff.com/content/xEvilReeperx_5144/ScienceAlert/ScienceAlert.png"
     },
-    "version": "1.8.9",
-    "ksp_version": "1.0.4",
+    "version": "1.8.9",    
+	"ksp_version_min" : "1.0.4",
+    "ksp_version_max" : "1.0.5",
     "download": "https://kerbalstuff.com/mod/424/ScienceAlert/download/1.8.9",
     "download_size": 465547,
     "x_generated_by": "netkan"
