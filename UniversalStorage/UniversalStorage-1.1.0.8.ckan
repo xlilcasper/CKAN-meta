@@ -29,7 +29,7 @@
             ]
         }
     ],
-    "download": "https://kerbalstuff.com/mod/250/Universal%20Storage/download/1.1.0.8",
+    "download": "http://127.0.0.1/ksp/Universal_Storage-1.1.0.8.zip",
     "download_size": 4820809,
     "x_conflicts": [
         {

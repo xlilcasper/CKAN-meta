@@ -23,7 +23,7 @@
             "install_to": "GameData/KerboKatz"
         }
     ],
-    "download": "https://kerbalstuff.com/mod/477/ForScience%20Continued%21/download/1.1.0",
+    "download": "https://github.com/Xarun/ForScienceContinued/releases/download/1.1.0/ForScienceContinued.zip",
     "download_size": 88638,
     "x_via": "Automated KerbalStuff CKAN submission",
     "x_generated_by": "netkan"
